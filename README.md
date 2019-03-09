@@ -6,6 +6,10 @@ In this repo I am adding the front end code to the existing backend server.
 
 To start server: node server.js
 
+To start client and server: npm run dev
+
+
+
 
 
 
